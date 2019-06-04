@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Cálculo IMC</string>
+    <string name="digite_a_altura_m">Digite a altura (m)</string>
+    <string name="digite_o_peso_kg">Digite o peso (kg)</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="limpar">LIMPAR</string>
+    <string name="peso">PESO</string>
+    <string name="altura">ALTURA</string>
+    <string name="todo">TODO</string>
+    <string name="imc">IMC</string>
+    <string name="situa_o">SITUAÇÃO:</string>
+    <string name="galgadotfat">galgadotfat</string>
+    <string name="dev_donowanoctavio">Dev.@donowanoctavio</string>
+</resources>
